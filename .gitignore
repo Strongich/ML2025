@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+heterogeneous_data/lab1/archive
+
 
 # Distribution / packaging
 .Python
